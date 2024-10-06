@@ -8,5 +8,3 @@ This project utilizes machine learning techniques to predict the likelihood of h
 - **Data Visualization**: Matplotlib, Seaborn
 - **Environment**: Jupyter Notebook / Python
 
-## Dataset
-The dataset used for this project is sourced from [insert dataset source or link here]. It includes various health metrics such as age, blood pressure, cholesterol levels, and other relevant factors.
